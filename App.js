@@ -1,0 +1,1 @@
+document.getElementById('T1').innerHTML='Cours Playwright'
